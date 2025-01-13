@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: http://165.22.209.118:3000/siddharth/gitops-argocd.git
+    repoURL: https://github.com/0xmitrang/argo-cd-kode-kloud.git
     targetRevision: HEAD
     path: ./declarative/app-of-apps
   destination:
